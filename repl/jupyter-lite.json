@@ -5,6 +5,9 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
+      ],
+      "extra_ignore_contents": [
+        ".ruff_cache*"
       ]
     }
   }
